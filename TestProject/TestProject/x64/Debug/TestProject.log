@@ -1,0 +1,34 @@
+﻿  Doodle.cpp
+C:\Users\silve\source\repos\TestProject\TestProject\Object.h(15,12): warning C4150: deletion of pointer to incomplete type 'Sprite'; no destructor called
+C:\Users\silve\source\repos\TestProject\2022_win64\Framework.h(17): message : see declaration of 'Sprite'
+C:\Users\silve\source\repos\TestProject\TestProject\Platform.h(27,34): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Platform.h(28,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Platform.h(29,33): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Platform.h(30,38): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.h(30,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.h(51,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(11,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(11,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(36,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(36,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(52,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(64,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(96,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(96,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(107,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(108,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(109,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(110,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(131,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(132,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(133,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(134,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(152,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(153,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(162,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(162,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(170,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(170,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\silve\source\repos\TestProject\TestProject\Doodle.cpp(147): warning C4715: 'Doodle::CheckMonsterCollision': not all control paths return a value
+  TestProject.vcxproj -> C:\Users\silve\source\repos\TestProject\x64\Debug\TestProject.exe
+  0 File(s) copied
